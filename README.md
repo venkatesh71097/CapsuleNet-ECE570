@@ -1,7 +1,7 @@
 # CapsuleNet-ECE570
 Course project for ECE 570 Artificial Intelligence, Purdue University
 
-I was inspired from https://github.com/gram-ai/capsule-networks to code myself for my course project implementation on 'Dynamic Routing between Capsules'. This repository consists of 2 sets of 3 different files. It contains the .py and .ipynb notebook files of 
+I had chosen to implement NIPS 2017 publication on 'Dynamic Routing between Capsules' (https://papers.nips.cc/paper/2017/file/2cad8fa47bbef282badbb8de5374b894-Paper.pdf). I was inspired from https://github.com/gram-ai/capsule-networks to code myself for my course project implementation on 'Dynamic Routing between Capsules'. This repository consists of 2 sets of 3 different files. It contains the .py and .ipynb notebook files of 
 
 1. Capsule Network over a grayscaled image dataset - MNIST
 2. Capsule Network over an RGB image dataset - CIFAR-10
