@@ -1,2 +1,14 @@
 # CapsuleNet-ECE570
 Course project for ECE 570 Artificial Intelligence, Purdue University
+
+I was inspired from https://github.com/gram-ai/capsule-networks to code myself for my course project implementation on 'Dynamic Routing between Capsules'. This repository consists of 2 sets of 3 different files. It contains the .py and .ipynb notebook files of 
+
+1. Capsule Network over a grayscaled image dataset - MNIST
+2. Capsule Network over an RGB image dataset - CIFAR-10
+3. Capsule Network over a timeseries dataset - UCI-HAR
+
+You could either import the .ipynb files directly to Google Colab or Jupyter to run the codes cell by cell, or run the .py file as such in your console. For starters, to learn how each function works, I would suggest looking the code cell by cell in the .ipynb notebook. 
+
+This repository will give you an idea about the types of datasets, the Capsule Networks can be used for image / text classification. This is the second implementation of Capsule Network on timeseries dataset directly after TimeCaps (https://arxiv.org/abs/1911.11800) for ECG data. The segmentation codes present in the 'activity_tracking' file are entirely mine without any inspiration. 
+
+Source for UCI-Human Activity Recognition dataset : https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29
