@@ -11,7 +11,7 @@ You could either import the .ipynb files directly to Google Colab or Jupyter to 
 
 This repository will give you an idea about the types of datasets, the Capsule Networks can be used for image / text classification. This is the second implementation of Capsule Network on timeseries dataset directly after [TimeCaps](https://arxiv.org/abs/1911.11800) for ECG data. The segmentation codes present in the 'activity_tracking' file are entirely mine without any inspiration. 
 
-The [UCI - Human Activity Recognition dataset] (https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29) consists of 3-axis accelerometer values along with the ground truth on the type of activity performed at a frequency of 20 Hz. The 6 activities performed are: 
+The [UCI - Human Activity Recognition dataset](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29) consists of 3-axis accelerometer values along with the ground truth on the type of activity performed at a frequency of 20 Hz. The 6 activities performed are: 
 1. Walking 
 2. Standing
 3. Sitting
