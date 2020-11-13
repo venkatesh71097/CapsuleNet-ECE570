@@ -1,6 +1,8 @@
 # CapsuleNet-ECE570
 Course project for ECE 570 Artificial Intelligence, Purdue University
 
+['My GitHub repository'](https://github.com/venkatesh71097/CapsuleNet-ECE570) 
+
 Which code has been modified? None. Just inspired! 
 
 Which code were you inspired from? 
