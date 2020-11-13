@@ -1,11 +1,17 @@
 # CapsuleNet-ECE570
 Course project for ECE 570 Artificial Intelligence, Purdue University
 
-I had chosen to implement NIPS 2017 publication on ['Dynamic Routing between Capsules'](https://papers.nips.cc/paper/2017/file/2cad8fa47bbef282badbb8de5374b894-Paper.pdf). I was inspired from [Gram-AI's](https://github.com/gram-ai/capsule-networks) repository to code myself for my course project implementation on 'Dynamic Routing between Capsules'. This repository consists of 2 sets of 3 different files. It contains the .py and .ipynb notebook files of 
+Which code has been modified? None. Just inspired! 
+
+Which code were you inspired from? 
+
+I had chosen to implement NIPS 2017 publication on ['Dynamic Routing between Capsules'](https://papers.nips.cc/paper/2017/file/2cad8fa47bbef282badbb8de5374b894-Paper.pdf). I was inspired from [Gram-AI's](https://github.com/gram-ai/capsule-networks) repository to originally code myself for my course project implementation on 'Dynamic Routing between Capsules'. This repository consists of 2 sets of 3 different files. It contains the .py and .ipynb notebook files of 
 
 1. Capsule Network over a grayscaled image dataset - MNIST
 2. Capsule Network over an RGB image dataset - CIFAR-10
-3. Capsule Network over a timeseries dataset - UCI-HAR
+3. Capsule Network over a timeseries dataset - WISDM
+
+How to run datasets? 
 
 You could either import the .ipynb files directly to Google Colab or Jupyter to run the codes cell by cell, or run the .py file as such in your console. For starters, to learn how each function works, I would suggest looking the code cell by cell in the .ipynb notebook. 
 
@@ -18,3 +24,4 @@ The [WISDM (Wireless Sensor Data Mining)](https://www.cis.fordham.edu/wisdm/data
 4. Moving upwards
 5. Moving downwards
 6. Jogging
+
